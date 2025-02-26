@@ -1,0 +1,3 @@
+http://localhost:3000/dashboard-data?type=năm&zone=Hồ%20Chí%20Minh
+http://localhost:3000/dashboard-data?type=tháng&month=3&zone=Hà%20Nội
+http://localhost:3000/dashboard-data?type=tuần&zone=Đà%20Nẵng
